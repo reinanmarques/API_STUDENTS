@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Vava.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Vava.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vava.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Vava.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Vava.Domain/Vava.Domain.csproj",
+      "msbuildProject": "../Vava.Domain/Vava.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Vava.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SEDUC-SUDS\\Vava\\Vava.Domain.Infra\\Vava.Domain.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain.Infra\\Vava.Domain.Infra.csproj",
       "projectName": "Vava.Domain.Infra",
-      "projectPath": "C:\\Users\\SEDUC-SUDS\\Vava\\Vava.Domain.Infra\\Vava.Domain.Infra.csproj",
+      "projectPath": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain.Infra\\Vava.Domain.Infra.csproj",
       "packagesPath": "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SEDUC-SUDS\\Vava\\Vava.Domain.Infra\\obj\\",
+      "outputPath": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SEDUC-SUDS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain\\Vava.Domain.csproj": {
+              "projectPath": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain\\Vava.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

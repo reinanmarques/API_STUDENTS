@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yc6kjffKkl62uM3kLt2tv5PFQ1yj+y1DYT7ctHgxkF5CvCzm5QAfsC3SSZykB+I8KEduYGVY+FdoTRV0r+wf6A==",
+  "dgSpecHash": "ehMmC3sBjkzkWA/rCU5BjTBKRTDzomGF7LL/jN/pyWGCwOOgVQ9L19wIQz3PdH0fqPKkq+BTMY4hpgRMsghv8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SEDUC-SUDS\\Vava\\Vava.Domain.Tests\\Vava.Domain.Tests.csproj",
+  "projectFilePath": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain.Tests\\Vava.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

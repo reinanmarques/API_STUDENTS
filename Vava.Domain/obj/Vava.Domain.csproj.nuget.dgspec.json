@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SEDUC-SUDS\\Vava\\Vava.Domain\\Vava.Domain.csproj": {}
+    "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain\\Vava.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SEDUC-SUDS\\Vava\\Vava.Domain\\Vava.Domain.csproj": {
+    "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain\\Vava.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SEDUC-SUDS\\Vava\\Vava.Domain\\Vava.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain\\Vava.Domain.csproj",
         "projectName": "Vava.Domain",
-        "projectPath": "C:\\Users\\SEDUC-SUDS\\Vava\\Vava.Domain\\Vava.Domain.csproj",
+        "projectPath": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain\\Vava.Domain.csproj",
         "packagesPath": "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SEDUC-SUDS\\Vava\\Vava.Domain\\obj\\",
+        "outputPath": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SEDUC-SUDS\\AppData\\Roaming\\NuGet\\NuGet.Config",

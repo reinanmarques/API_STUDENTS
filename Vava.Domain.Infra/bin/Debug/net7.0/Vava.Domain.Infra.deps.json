@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "Vava.Domain.Infra/1.0.0": {
+        "dependencies": {
+          "Vava.Domain": "1.0.0"
+        },
         "runtime": {
           "Vava.Domain.Infra.dll": {}
+        }
+      },
+      "Vava.Domain/1.0.0": {
+        "runtime": {
+          "Vava.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Vava.Domain.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vava.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

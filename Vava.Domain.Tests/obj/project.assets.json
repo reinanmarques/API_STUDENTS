@@ -598,6 +598,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Vava.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Vava.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vava.Domain.dll": {}
+        }
       }
     }
   },
@@ -2292,6 +2302,11 @@
         "system.threading.tasks.4.3.0.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "Vava.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Vava.Domain/Vava.Domain.csproj",
+      "msbuildProject": "../Vava.Domain/Vava.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2299,6 +2314,7 @@
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
+      "Vava.Domain >= 1.0.0",
       "coverlet.collector >= 3.2.0"
     ]
   },
@@ -2308,11 +2324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SEDUC-SUDS\\Vava\\Vava.Domain.Tests\\Vava.Domain.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain.Tests\\Vava.Domain.Tests.csproj",
       "projectName": "Vava.Domain.Tests",
-      "projectPath": "C:\\Users\\SEDUC-SUDS\\Vava\\Vava.Domain.Tests\\Vava.Domain.Tests.csproj",
+      "projectPath": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain.Tests\\Vava.Domain.Tests.csproj",
       "packagesPath": "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SEDUC-SUDS\\Vava\\Vava.Domain.Tests\\obj\\",
+      "outputPath": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SEDUC-SUDS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2328,7 +2344,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain\\Vava.Domain.csproj": {
+              "projectPath": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain\\Vava.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

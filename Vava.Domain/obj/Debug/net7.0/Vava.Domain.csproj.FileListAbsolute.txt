@@ -10,3 +10,15 @@ C:\Users\SEDUC-SUDS\Vava\Vava.Domain\obj\Debug\net7.0\Vava.Domain.dll
 C:\Users\SEDUC-SUDS\Vava\Vava.Domain\obj\Debug\net7.0\refint\Vava.Domain.dll
 C:\Users\SEDUC-SUDS\Vava\Vava.Domain\obj\Debug\net7.0\Vava.Domain.pdb
 C:\Users\SEDUC-SUDS\Vava\Vava.Domain\obj\Debug\net7.0\ref\Vava.Domain.dll
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain\bin\Debug\net7.0\Vava.Domain.deps.json
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain\bin\Debug\net7.0\Vava.Domain.dll
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain\bin\Debug\net7.0\Vava.Domain.pdb
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain\obj\Debug\net7.0\Vava.Domain.csproj.AssemblyReference.cache
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain\obj\Debug\net7.0\Vava.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain\obj\Debug\net7.0\Vava.Domain.AssemblyInfoInputs.cache
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain\obj\Debug\net7.0\Vava.Domain.AssemblyInfo.cs
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain\obj\Debug\net7.0\Vava.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain\obj\Debug\net7.0\Vava.Domain.dll
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain\obj\Debug\net7.0\refint\Vava.Domain.dll
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain\obj\Debug\net7.0\Vava.Domain.pdb
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain\obj\Debug\net7.0\ref\Vava.Domain.dll
