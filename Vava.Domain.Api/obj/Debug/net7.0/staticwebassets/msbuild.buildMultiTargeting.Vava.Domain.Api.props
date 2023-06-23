@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vava.Domain.Api.props" />
+</Project>

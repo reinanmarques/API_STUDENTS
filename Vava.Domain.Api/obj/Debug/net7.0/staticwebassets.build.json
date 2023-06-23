@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OCrQPvuuEW8OjyKL3dD7jP6TXJMfX8eIGfWuJtgSTf8=",
+  "Source": "Vava.Domain.Api",
+  "BasePath": "_content/Vava.Domain.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
