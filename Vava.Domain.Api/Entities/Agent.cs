@@ -4,68 +4,75 @@ namespace Vava.Domain.Api.Entities
 {
     public class Agent
     {
+
+        public Agent() 
+        {
+            BackgroundGradientColors = new List<string>();
+            Abilities = new List<Ability>();
+
+        }
         [JsonPropertyName("uuid")]
-        public string UUID;
+        public string UUID { get; set; }
 
         [JsonPropertyName("displayName")]
-        public string DisplayName;
+        public string DisplayName { get; set; }
 
         [JsonPropertyName("description")]
-        public string Description;
+        public string Description { get; set; }
 
         [JsonPropertyName("developerName")]
-        public string DeveloperName;
+        public string DeveloperName { get; set; }
 
         [JsonPropertyName("characterTags")]
-        public object CharacterTags;
+        public object CharacterTags { get; set; }
 
         [JsonPropertyName("displayIcon")]
-        public string DisplayIcon;
+        public string DisplayIcon { get; set; }
 
         [JsonPropertyName("displayIconSmall")]
-        public string DisplayIconSmall;
+        public string DisplayIconSmall { get; set; }
 
         [JsonPropertyName("bustPortrait")]
-        public string BustPortrait;
+        public string BustPortrait { get; set; }
 
         [JsonPropertyName("fullPortrait")]
-        public string FullPortrait;
+        public string FullPortrait { get; set; }
 
         [JsonPropertyName("fullPortraitV2")]
-        public string FullPortraitV2;
+        public string FullPortraitV2 { get; set; }
 
         [JsonPropertyName("killfeedPortrait")]
-        public string KillfeedPortrait;
+        public string KillfeedPortrait { get; set; }
 
         [JsonPropertyName("background")]
-        public string Background;
+        public string Background { get; set; }
 
         [JsonPropertyName("backgroundGradientColors")]
-        public List<string> BackgroundGradientColors;
+        public List<string> BackgroundGradientColors { get;}
 
         [JsonPropertyName("assetPath")]
-        public string AssetPath;
+        public string AssetPath { get; set; }
 
         [JsonPropertyName("isFullPortraitRightFacing")]
-        public bool? IsFullPortraitRightFacing;
+        public bool? IsFullPortraitRightFacing { get; set; }
 
         [JsonPropertyName("isPlayableCharacter")]
-        public bool? IsPlayableCharacter;
+        public bool? IsPlayableCharacter { get; set; }
 
         [JsonPropertyName("isAvailableForTest")]
-        public bool? IsAvailableForTest;
+        public bool? IsAvailableForTest { get; set; }
 
         [JsonPropertyName("isBaseContent")]
-        public bool? IsBaseContent;
+        public bool? IsBaseContent { get; set; }
 
         [JsonPropertyName("role")]
-        public Role Role;
+        public Role Role { get; set; }
 
         [JsonPropertyName("abilities")]
-        public List<Ability> Abilities;
+        public ICollection<Ability> Abilities { get; set; }
 
         [JsonPropertyName("voiceLine")]
-        public VoiceLine VoiceLine;
+        public VoiceLine VoiceLine { get; set; }
 
     }
 }

@@ -10,17 +10,19 @@ namespace Vava.Domain.Api.Controllers
     public class AgentController : ControllerBase
     {
 
-        private IAgentRepository _agentRepository;
-
-        public AgentController(IAgentRepository agentRepository)
-        {
-            _agentRepository = agentRepository;
-        }
-
         [HttpGet]
         public Task<ResponseDTO> findAll([FromServices] IAgentRepository repository)
         {
-            return _agentRepository.findAll(new DTO.RequestDTO());
+            return repository.findAll(new DTO.RequestDTO());
+
+
+        }
+        
+        [HttpGet("{uuid}")]
+        public Task<ResponseUniqueDTO> findById([FromServices] IAgentRepository repository , string uuid)
+        {
+            return repository.findById(uuid);
+
         }
     }
 }

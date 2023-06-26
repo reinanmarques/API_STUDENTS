@@ -70,3 +70,5 @@ C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain.Api\obj\Debug\net7.0\Vava.Domai
 C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain.Api\obj\Debug\net7.0\ref\Vava.Domain.Api.dll
 C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain.Api\bin\Debug\net7.0\Refit.dll
 C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain.Api\bin\Debug\net7.0\Refit.HttpClientFactory.dll
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\SEDUC-SUDS\Desktop\API_VAVA\Vava.Domain.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

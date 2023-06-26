@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "t2ChcLyKw6ygGyN3bQOrsgpCPjkKDLTEwXbJz0HEr5cGlSUe0wrOXLPB6j56DsfFaMFlZQfxPt0xf5f1IpWWlQ==",
+  "dgSpecHash": "jV6Ky2Ss1ribHtLvcRqcrdnGfk8sZniojAKWs4ZGpQM2DZKgRmTD0tTQcIH5przHj3tmrCRWo+GOx2Gor5xjRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\SEDUC-SUDS\\Desktop\\API_VAVA\\Vava.Domain.Api\\Vava.Domain.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\SEDUC-SUDS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
